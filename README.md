@@ -45,7 +45,7 @@ Actualmente ampliando conocimientos en **Big Data**, desarrollo nativo y **Docke
 ## 📌 Actualmente
 - Curso de **Especialista en Big Data** en IronHack (finalizado)  
 - Mejorando microservicios y despliegues con **Docker**  
-- Abierto a oportunidades como **Junior App Developer** o **Junior Data Analyst**  
+- Abierto a oportunidades como **Junior App Developer**, **Junior Backend Developer**o **Junior Data Analyst**  
 
 ---
 
