@@ -33,7 +33,7 @@ Actualmente ampliando conocimientos en **Big Data**, desarrollo nativo y **Docke
 ### 🎵 Moodify — Aplicación de sugerencia de canciones según estado de ánimo
 - Python + Streamlit + TeachableMachine  
 - Subida de imagen o foto por webcam, análisis de estado de ánimo y sugerencia de canciones  
-- 👉 [Repo](https://github.com/FortzQ/PROYECTO-FINAL)  
+- 👉 [Repo](https://github.com/xProSergi/Moodify)  
 
 ### 📈 Parklytics — Predicción de afluencia en Parque Warner
 - Python, APIs, Machine Learning  
