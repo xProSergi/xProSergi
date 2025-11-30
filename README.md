@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Sergio López
 
-Desarrollador Backend y Mobile con experiencia en **Java, Kotlin, Flutter, Python, SQL (.MySQL, Oracle) y .NET**.  
+Desarrollador Backend y Mobile con experiencia en **Java, Kotlin, Flutter, Python, SQL (MySQL, Oracle) y .NET**.  
 Me especializo en el desarrollo de **aplicaciones móviles**, integración de APIs externas y diseño de bases de datos relacionales y no relacionales.  
 Complementariamente, manejo **Power BI, Pandas, Spark/PySpark** y herramientas de análisis de datos.  
 
