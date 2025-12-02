@@ -35,10 +35,10 @@ Actualmente ampliando conocimientos en **Big Data**, desarrollo nativo y **Docke
 - Subida de imagen o foto por webcam, análisis de estado de ánimo y sugerencia de canciones  
 - 👉 [Repo](https://github.com/xProSergi/Moodify)  
 
-### 📈 Parklytics — Predicción de afluencia en Parque Warner
+### 📈 ParkBeat — Predicción de afluencia en Parque Warner
 - Python, APIs, Machine Learning  
 - Predicción de tiempos de espera en atracciones según datos históricos, clima y fecha  
-- 👉 [Repo](https://github.com/xProSergi/Parklytics)  
+- 👉 [Repo](https://github.com/xProSergi/ParkBeat)  
 
 ---
 
